@@ -1,4 +1,4 @@
-# EigenSeeker: An attempt to make a program too find the eigenvalues and eigenvectors of a matrix in Python
+# EigenSeeker: An attempt to make a program to find the eigenvalues and eigenvectors of a matrix in Python
 
 This is the *term project* (if that's what the lecturer calls it) for the course ICCS205: Numerical Computation, NumMeth for short.
 
